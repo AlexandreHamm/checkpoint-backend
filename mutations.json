@@ -1,0 +1,18 @@
+[
+    {  "codeContinent": "EU",
+        "emoji": "🇫🇷",  "nom": "France",
+        "code": "FR"
+    },
+    {  "codeContinent": "EU",
+        "emoji": "🇧🇪",  "nom": "Belgique",
+        "code": "BE"
+    },
+    {  "codeContinent": "EU",
+        "emoji": "🇦🇩",  "nom": "Andorre",
+        "code": "AD"
+    },
+    {  "codeContinent": "NA",
+        "emoji": "🇨🇦",  "nom": "Canada",
+        "code": "CA"
+    }
+]
